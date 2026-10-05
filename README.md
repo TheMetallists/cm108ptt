@@ -49,6 +49,18 @@ UPX has a history of being false-positived by AVs, so feel free to use the Crink
 .
 
 .
+## Licensing
+This program and it's source code are licensed under GNU GPL v3.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
 ## EMOTIONAL SUPPORT
 If you want to donate, you can use my Bitcoin wallet:
 - bc1qy633s5me0ytyalgl3ra8k2pgc4eaqcgcl3srwc
