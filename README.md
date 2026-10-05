@@ -10,6 +10,8 @@ Usage:
 * Configure this app to open the second port, and cm108's parameters.
 * Start the app's bridging function
 
+## Download
+See the [Releases](https://github.com/TheMetallists/cm108ptt/releases) page.
 
 ## Configuration trick
 
