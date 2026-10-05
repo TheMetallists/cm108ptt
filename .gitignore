@@ -1,0 +1,43 @@
+# Build outputs and intermediate directories
+build/
+build_*/
+out/
+bin/
+artifacts/
+artifacts/*.exe
+artifacts/*.pdb
+cmake-build-debug/
+
+# CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+
+# Visual Studio / MSVC artifacts
+.vs/
+*.VC.db
+*.opendb
+*.suo
+*.user
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.o
+*.res
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+.idea/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Temporary previews
+icon_preview*.png
